@@ -1,7 +1,5 @@
 # Computer Organization and Architecture
 
-Practical lab resources for a 15-session COA course.
-
 ## Contents
 
 ### PC Building Simulator (Labs 1–3)
