@@ -1,0 +1,27 @@
+{
+  "name": "C++",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {},
+    "ghcr.io/devcontainers-extra/features/sv2v:1": {},
+    "ghcr.io/maks1ms/devcontainers-features/wine:0": {},
+    "ghcr.io/devcontainers/features/java:1": { "version": "21" }
+  },
+  "forwardPorts": [6080],
+  "postCreateCommand": "bash .devcontainer/setup.sh && bash .devcontainer/install-claude.sh",
+  "portsAttributes": {
+    "6080": {
+      "label": "noVNC Desktop",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "anthropic.claude-code"
+      ]
+    }
+  }
+}

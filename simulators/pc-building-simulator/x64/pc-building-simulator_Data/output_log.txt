@@ -1,0 +1,39 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+Forcing GfxDevice: Direct3D 9
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 31.0.13.9135]
+    Renderer: NVIDIA GeForce GTX 470
+    Vendor:   NVIDIA
+    VRAM:     7944 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\workspaces\computer-organization-and-architecture\pc-building-simulator\x64\pc-building-simulator_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\workspaces\computer-organization-and-architecture\pc-building-simulator\x64\pc-building-simulator_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\workspaces\computer-organization-and-architecture\pc-building-simulator\x64\pc-building-simulator_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading Z:\workspaces\computer-organization-and-architecture\pc-building-simulator\x64\pc-building-simulator_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: Z:\workspaces\computer-organization-and-architecture\pc-building-simulator\x64\pc-building-simulator_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\workspaces\computer-organization-and-architecture\pc-building-simulator\x64\pc-building-simulator_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\workspaces\computer-organization-and-architecture\pc-building-simulator\x64\pc-building-simulator_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\workspaces\computer-organization-and-architecture\pc-building-simulator\x64\pc-building-simulator_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: Z:\workspaces\computer-organization-and-architecture\pc-building-simulator\x64\pc-building-simulator_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading Z:\workspaces\computer-organization-and-architecture\pc-building-simulator\x64\pc-building-simulator_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: Z:\workspaces\computer-organization-and-architecture\pc-building-simulator\x64\pc-building-simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading Z:\workspaces\computer-organization-and-architecture\pc-building-simulator\x64\pc-building-simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.095 seconds
+Platform assembly: Z:\workspaces\computer-organization-and-architecture\pc-building-simulator\x64\pc-building-simulator_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: Z:\workspaces\computer-organization-and-architecture\pc-building-simulator\x64\pc-building-simulator_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x800 0Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.272700 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 7fc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 8.126900 ms
+
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 14668.
+Total: 4.400100 ms (FindLiveObjects: 0.514000 ms CreateObjectMapping: 0.417400 ms MarkObjects: 2.918700 ms  DeleteObjects: 0.548800 ms)
+
